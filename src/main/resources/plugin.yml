@@ -1,0 +1,4 @@
+name: Applications
+version: '1.0'
+main: net.civicraft.applications.Applications
+api-version: '1.21'
