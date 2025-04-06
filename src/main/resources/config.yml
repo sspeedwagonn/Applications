@@ -1,2 +1,3 @@
+strict: false # Set true if candidates MUST meet or exceed ALL requirements
 requirements:
   playtime: 12
